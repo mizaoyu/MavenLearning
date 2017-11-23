@@ -1,0 +1,7 @@
+**/target/*
+.settings/*
+.svn/*
+.idea/*
+*.class
+*.iml
+**/out/*
